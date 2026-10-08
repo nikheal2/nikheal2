@@ -75,7 +75,7 @@ stages:
 ### 📊 Stats (please don't judge the green squares)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikheal2&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikheal2&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikheal2&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
@@ -89,7 +89,5 @@ stages:
 ### 🤝 Ask me about
 
 vLLM internals, LLM inference on accelerators, turning a Jenkins pipeline into GitHub Actions without crying, and good chai.
-
-<p align="center"><i>"There are two hard problems in ML: cache invalidation, naming things, and off-by-one errors."</i></p>
 
 <p align="center">⭐ If you made it this far, you're legally obligated to follow. (Not legal advice.)</p>
